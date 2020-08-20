@@ -1,4 +1,4 @@
-#free proxy list generator
+#free proxy list generator for you
 import requests
 from bs4 import BeautifulSoup
 import random
